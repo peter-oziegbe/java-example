@@ -1,0 +1,31 @@
+
+{
+java:S1488["eImmediately return this expression instead of assigning it to the temporary variable "formattedDate".(Åë÷÷
+3
+java:S1700…"Rename field "rootThreshold"(õúõ÷
+S
+java:S1854"=Remove this useless assignment to local variable "mainClass".(ÉÌ‘²
+T
+java:S1854"9Remove this useless assignment to local variable "clazz".(é—Š¦ıÿÿÿÿ
+‚
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
+V	java:S125"<This block of commented-out lines of code should be removed.(Ï—‡ıÿÿÿÿ
+Y
+java:S2133">Remove this object instantiation and use "Main.class" instead.(²Äˆİÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "clazz" local variable.(é—Š¦ıÿÿÿÿ
+D
+java:S1481".Remove this unused "mainClass" local variable.(ÉÌ‘²
+^
+java:S3986Z"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(ˆú„²
+h	java:S116b"SRename this field "per_page" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æƒı¬
+p	java:S116d"VRename this field "total_pages" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó®ô†úÿÿÿÿ
+F
+java:S1128
+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+C
+java:S1068a"(Remove this unused "page" private field.(‰¶£úÿÿÿÿ
+B
+java:S1068b",Remove this unused "per_page" private field.(Æƒı¬
+D
+java:S1068c")Remove this unused "total" private field.(öòÅßÿÿÿÿÿ

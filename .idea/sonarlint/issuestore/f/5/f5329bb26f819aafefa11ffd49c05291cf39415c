@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(É®³¤úÿÿÿÿ8’ÊçÞ¿1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥°Û¸þÿÿÿÿ8’ÊçÞ¿1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÁÚ…Ø8’ÊçÞ¿1
+P
+java:S1854":Remove this useless assignment to local variable "toyota".(ýîÉ•
+A
+java:S1481"+Remove this unused "toyota" local variable.(ýîÉ•

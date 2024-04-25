@@ -1,0 +1,17 @@
+
+J
+java:S1066%"/Merge this if statement with the enclosing one.(ÖÐ8¼—µÆí1
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿëµ“8¼—µÆí1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûîÿ×8¼—µÆí1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûíôƒ8½—µÆí1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Þ£ˆ”8½—µÆí1
+m	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûƒ ³8½—µÆí1
+o
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÿëµ“8ý†·Æí1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(¹ñ×Åùÿÿÿÿ8÷—µÆí1
+T	java:S106B"9Replace this use of System.out or System.err by a logger.(ŸÂä8÷—µÆí1
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¤›‹‰úÿÿÿÿ8ø—µÆí1
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.( áòòÿÿÿÿÿ8ø—µÆí1
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(€÷€—8ø—µÆí1

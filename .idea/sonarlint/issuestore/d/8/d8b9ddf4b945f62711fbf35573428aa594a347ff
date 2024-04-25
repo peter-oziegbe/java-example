@@ -1,0 +1,6 @@
+
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¬íÏûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëðÈûþÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ã‘ì‚
+r	java:S116H"XRename this field "comment_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Ý¨Žúÿÿÿÿ

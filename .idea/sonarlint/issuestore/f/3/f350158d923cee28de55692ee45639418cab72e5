@@ -1,0 +1,10 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ïµã­ÿÿÿÿÿ
+T
+java:S1854"9Remove this useless assignment to local variable "clazz".(Ïµã­ÿÿÿÿÿ
+E
+java:S1481"*Remove this unused "clazz" local variable.(Ïµã­ÿÿÿÿÿ
+F
+java:S1481"+Remove this unused "object" local variable.(„Œ·Øúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«÷…è

@@ -1,0 +1,8 @@
+
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¢˜’Žýÿÿÿÿ
+H
+java:S1481"2Remove this unused "autoCloseable" local variable.(¾á‘ì
+I
+java:S1481".Remove this unused "closeable" local variable.(ºªÁéúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™Ãø¤

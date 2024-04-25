@@ -1,0 +1,18 @@
+
+W
+java:S1854$"<Remove this useless assignment to local variable "aPackage".(€•ğüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(È—Öïùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ƒëâ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(•Ïµ®
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›êÃ˜øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Š€Í€
+G
+java:S3011",This accessibility update should be removed.(ùû°Ìşÿÿÿÿ
+G
+java:S3011",This accessibility bypass should be removed.(‰Öµşÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(·¼Ñ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ÙÅ±
+H
+java:S1481$"-Remove this unused "aPackage" local variable.(€•ğüÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ë××¤
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(££¾Ñ

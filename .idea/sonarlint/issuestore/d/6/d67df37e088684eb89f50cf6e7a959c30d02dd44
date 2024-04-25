@@ -1,0 +1,9 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(æ«·í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÖËš
+B
+java:S1602",Remove useless curly braces around statement(¸ÉçÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“–àúÿÿÿÿ
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8çË–µğ1
